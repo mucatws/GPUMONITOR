@@ -1,5 +1,6 @@
 # GPUMONITOR
 Vai monitorar sua GPU
+
 credits to reavolk, made this inspired on his CAGT, go check it out.
 
 # 🖥 GPU Monitor v1.1 — C++
