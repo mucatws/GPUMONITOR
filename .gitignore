@@ -1,0 +1,70 @@
+# ─── Binários compilados ───────────────────────────────────────────────────
+gpu_monitor
+gpu_monitor.exe
+ram_cleaner
+ram_cleaner.exe
+ 
+# ─── Objetos e arquivos intermediários ─────────────────────────────────────
+*.o
+*.obj
+*.a
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+ 
+# ─── MSVC ──────────────────────────────────────────────────────────────────
+*.VC.db
+*.VC.opendb
+x64/
+x86/
+Debug/
+Release/
+ipch/
+.vs/
+ 
+# ─── CMake ─────────────────────────────────────────────────────────────────
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+out/
+ 
+# ─── Make / autotools ──────────────────────────────────────────────────────
+*.d
+*.dep
+ 
+# ─── CLion / JetBrains ─────────────────────────────────────────────────────
+.idea/
+cmake-build-*/
+ 
+# ─── VSCode ────────────────────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+ 
+# ─── macOS ─────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+ 
+# ─── Windows ───────────────────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+ 
+# ─── Linux ─────────────────────────────────────────────────────────────────
+*~
+.nfs*
+ 
+# ─── Logs e dumps ──────────────────────────────────────────────────────────
+*.log
+*.dmp
+core
+core.*
+ 
